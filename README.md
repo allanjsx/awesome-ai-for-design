@@ -3,13 +3,13 @@ A curated list of awesome AI powered design tools including but not limited to w
 
 ## Contents
 
-- [Web and app Design](#web-and-app-design)
+- [Web and App Design](#web-and-app-design)
 - [Presentation Design](#presentation-design)
-- [Graphic designs](#illustrations)
+- [Graphic Designs](#illustrations)
 - [Videos](#videos)
 - [AI Design Community](#ai-design-communities)
 
-## Web and app design
+## Web and App Design
 
 - [Lovable](https://www.lovable.dev) - Build responsive websites quickly with AI assistance.
 - [Lovart](https://www.lovart.ai) - AI design agent for web, branding, and illustrations
@@ -19,7 +19,7 @@ A curated list of awesome AI powered design tools including but not limited to w
 - [Canva](https://www.canva.com/) - AI presentation maker
 - [Gamma](https://gamma.app/) - Create AI Powered PowerPoint Presentations in Seconds
 
-## Graphic designs
+## Graphic Designs
 - [Midjourney](https://www.midjourney.com/) - Generative AI tool used to create images from text prompts
 - [DALL-E](https://platform.openai.com/docs/models/dall-e-3) - OpenAI's original image generation tool
 - [GPT Image](https://platform.openai.com/docs/models/gpt-image-1) - OpenAI's latest image generation tool
