@@ -14,6 +14,7 @@ A curated list of awesome AI powered design tools including but not limited to w
 - [Lovable](https://www.lovable.dev) - Build responsive websites quickly with AI assistance.
 - [Lovart](https://www.lovart.ai) - AI design agent for web, branding, and illustrations
 - [v0 by Vercel](https://v0.dev) - A pair programmer that generates both the code and UI for your project.
+- [Figma Make](https://www.figma.com/make/) - Create design and functional prototype in Figma by prompts
 
 ## Presentation Design
 - [Canva](https://www.canva.com/) - AI presentation maker
