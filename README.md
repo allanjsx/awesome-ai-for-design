@@ -27,13 +27,21 @@ A curated list of awesome AI powered design tools including but not limited to w
 - [GPT Image](https://platform.openai.com/docs/models/gpt-image-1) - OpenAI's latest image generation tool
 - [Imagen](https://deepmind.google/models/imagen/) - Google AI image generation
 - [Xingliu(星流)](https://www.xingliu.art/) - AI image generation agent for the Chinese users
-- [Adobe Firefly](https://www.adobe.com/products/firefly.html) - Adobe's AI Image & Video generator 
+- [Adobe Firefly](https://www.adobe.com/products/firefly.html) - Adobe's AI Image generator 
 
 ## Videos
 - [Sora](https://openai.com/sora/) - OpenAI's AI video model
 - [Veo](https://deepmind.google/models/veo/) - Google's AI video model
+- [Meta Movie Gen](https://ai.meta.com/research/movie-gen/) - Video generatioin by Meta AI
+- [Adobe Firefly Video](https://www.adobe.com/products/firefly.html) - Adobe's AI Video generator 
+- [HailuoAI](https://hailuoai.video/) - Text to video generator
 - [KlingAI(可灵)](https://www.klingai.com/global/) - AI Video creative studio
+- [RunwayML](https://runwayml.com/) - Short film AI generator
+- [Luma Labs](https://lumalabs.ai/) - Multimodal AI video generator
+- [Genmo Mochi](https://www.genmo.ai/) - Open source video generation model
+- [Pixverse](https://app.pixverse.ai/onboard) - AI video platform
 - [Pika](https://pika.art/about) - AI video creator
+- [Hunyuan](https://aivideo.hunyuan.tencent.com/) - Tencent's video model
 
 ## AI Design Communities
 - [pxpop](https://www.pxpop.com) - Dribbble for AI-assisted graphic designers
