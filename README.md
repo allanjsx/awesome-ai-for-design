@@ -30,6 +30,7 @@ A curated list of awesome AI powered design tools including but not limited to w
 - [Adobe Firefly](https://www.adobe.com/products/firefly.html) - Adobe's AI Image generator 
 
 ## Videos
+- [OpenCreator](https://opencreator.ai/) - All-in-one AI workspace for creating product visuals (images and videos) with workflow automation and batch generation
 - [Sora](https://openai.com/sora/) - OpenAI's AI video model
 - [Veo](https://deepmind.google/models/veo/) - Google's AI video model
 - [Meta Movie Gen](https://ai.meta.com/research/movie-gen/) - Video generatioin by Meta AI
