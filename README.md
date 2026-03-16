@@ -31,6 +31,7 @@ A curated list of awesome AI powered design tools including but not limited to w
 - [MascotCraft](https://mascotcraft.com) - AI-powered platform for generating custom 3D and 2D mascots for brands and logos.
 
 ## Videos
+- [OpenCreator](https://opencreator.ai/) - All-in-one AI workspace for creating product visuals (images and videos) with workflow automation and batch generation
 - [Sora](https://openai.com/sora/) - OpenAI's AI video model
 - [Veo](https://deepmind.google/models/veo/) - Google's AI video model
 - [Meta Movie Gen](https://ai.meta.com/research/movie-gen/) - Video generatioin by Meta AI
