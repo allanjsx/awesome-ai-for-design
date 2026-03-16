@@ -37,6 +37,7 @@ A curated list of awesome AI powered design tools including but not limited to w
 - [HailuoAI](https://hailuoai.video/) - Text to video generator
 - [KlingAI(可灵)](https://www.klingai.com/global/) - AI Video creative studio
 - [RunwayML](https://runwayml.com/) - Short film AI generator
+- [PopcornAI](https://popcornai.art/) - AI video and image generator for short-form creative, launch visuals, and campaign-ready brand content
 - [Luma Labs](https://lumalabs.ai/) - Multimodal AI video generator
 - [Genmo Mochi](https://www.genmo.ai/) - Open source video generation model
 - [Pixverse](https://app.pixverse.ai/onboard) - AI video platform
