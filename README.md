@@ -29,6 +29,7 @@ A curated list of awesome AI powered design tools including but not limited to w
 - [Xingliu(星流)](https://www.xingliu.art/) - AI image generation agent for the Chinese users
 - [Adobe Firefly](https://www.adobe.com/products/firefly.html) - Adobe's AI Image generator 
 - [MascotCraft](https://mascotcraft.com) - AI-powered platform for generating custom 3D and 2D mascots for brands and logos.
+- [TinyTools BG Remover](https://tinytools-smoky.vercel.app/) - Free, open-source AI background remover that runs entirely in your browser using ONNX/WASM. No upload, no signup — your images never leave your device.
 
 ## Videos
 - [OpenCreator](https://opencreator.ai/) - All-in-one AI workspace for creating product visuals (images and videos) with workflow automation and batch generation
