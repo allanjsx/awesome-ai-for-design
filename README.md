@@ -20,6 +20,7 @@ A curated list of awesome AI powered design tools including but not limited to w
 ## Presentation Design
 - [Canva](https://www.canva.com/) - AI presentation maker
 - [Gamma](https://gamma.app/) - Create AI Powered PowerPoint Presentations in Seconds
+- [PPTMaster](https://pptmaster.online/) - AI PowerPoint generator with 8-language support and curated tool reviews
 
 ## Graphic Designs
 - [Midjourney](https://www.midjourney.com/) - Generative AI tool used to create images from text prompts
