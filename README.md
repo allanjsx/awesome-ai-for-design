@@ -2,6 +2,7 @@
 A curated list of awesome AI powered design tools including but not limited to website/app design, graphic design, deck/slide design, and AI design communities.
 
 ## Contents
+- [Raphael](https://raphael.app/) – AI workspace for creative production — image, video, and design in one place.
 
 - [Web and App Design](#web-and-app-design)
 - [Presentation Design](#presentation-design)
