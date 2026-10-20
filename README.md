@@ -45,6 +45,7 @@ A curated list of awesome AI powered design tools including but not limited to w
 - [Pixverse](https://app.pixverse.ai/onboard) - AI video platform
 - [Pika](https://pika.art/about) - AI video creator
 - [Hunyuan](https://aivideo.hunyuan.tencent.com/) - Tencent's video model
+- [Pixwit](https://pixwit.ai/) - Multi-model AI video and image generator with text-to-video, image-to-video and effects
 
 ## AI Design Communities
 - [pxpop](https://www.pxpop.com) - Dribbble for AI-assisted graphic designers
