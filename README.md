@@ -29,6 +29,7 @@ A curated list of awesome AI powered design tools including but not limited to w
 - [Xingliu(星流)](https://www.xingliu.art/) - AI image generation agent for the Chinese users
 - [Adobe Firefly](https://www.adobe.com/products/firefly.html) - Adobe's AI Image generator 
 - [MascotCraft](https://mascotcraft.com) - AI-powered platform for generating custom 3D and 2D mascots for brands and logos.
+- [AdVariq](https://advariq.com/) - AI ad creative and visual design platform to clone winning ads and generate marketing assets
 
 ## Videos
 - [OpenCreator](https://opencreator.ai/) - All-in-one AI workspace for creating product visuals (images and videos) with workflow automation and batch generation
