@@ -16,6 +16,7 @@ A curated list of awesome AI powered design tools including but not limited to w
 - [v0 by Vercel](https://v0.dev) - A pair programmer that generates both the code and UI for your project.
 - [Figma Make](https://www.figma.com/make/) - Create design and functional prototype in Figma by prompts
 - [Magic Patterns](https://www.magicpatterns.com) - AI design tool to build prototypes with your existing styling
+- [Kite](https://kite.new) - Design tool your AI agents and your team share: Claude, ChatGPT, Cursor or Codex draw editable screens and components in the same file you edit
 
 ## Presentation Design
 - [Canva](https://www.canva.com/) - AI presentation maker
